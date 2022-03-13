@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Fulphatmilk
 - 👀 I’m interested in ttgo vpet
-- 🌱 I’m currently learning how to code
+- 🌱 I’m currently learning well trying to learn
+ how to code
 - 💞️ I’m looking to collaborate on coding a vpet
 - 📫 How to reach me fulphatmilk1@gmail.com 
 
